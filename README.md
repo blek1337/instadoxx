@@ -1,6 +1,6 @@
 # INSTADOXX Osint tools for instagram
 ***
-Note: Before you use this tool, make sure you use a fake account because this tool will create an attack called "flood attack". This causes Instagram to suspend your account and even existing accounts will be banned immediately. Use this tool on your own risk. We take no responsibility for your actions!!! We don't collect your data so don't worry about the security of your account.
+Note: Before use this tool, make sure you're using a fake account. This tool will create an attack called "flood attack". This causes Instagram to suspend your account and even existing accounts will be banned immediately. Use this tool on your own risk. We take no responsibility for your actions!!! We don't collect your data so don't worry about the security of your account.
 ***
 ## Installation
 ***
